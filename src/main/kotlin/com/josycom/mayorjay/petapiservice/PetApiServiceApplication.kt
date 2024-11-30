@@ -1,4 +1,4 @@
-package com.josycom.mayorjay.petservice
+package com.josycom.mayorjay.petapiservice
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

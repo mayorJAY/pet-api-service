@@ -1,10 +1,10 @@
-package com.josycom.mayorjay.petservice
+package com.josycom.mayorjay.petapiservice
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class PetServiceApplicationTests {
+class PetApiServiceApplicationTests {
 
 	@Test
 	fun contextLoads() {
